@@ -12,7 +12,7 @@ public class DemoDataAccess : IDemoDataAccess
         people.Add(new PersonModel() { Id = 2, FirstName = "Érico", LastName = "Padilha" });
     }
 
-    public List<PersonModel> GetPoeple()
+    public List<PersonModel> GetPeople()
     {
         return people;
     }

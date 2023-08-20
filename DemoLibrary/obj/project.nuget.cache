@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "BQSaXtu5HSKg6ch0qBmKpqBGEkYy08y7ltmyy2USd1+3M0UTj+fM3mTmcHWr0AVgN7qIQAD+7p+Xt3TUDqfMvQ==",
+  "dgSpecHash": "O7y3i0fgmvIM2PWVhs8OUkQdFicqRjZC2kJwF03cp0wf5rjuNRd3tDwKRg7JVLHrsGR3icz7U40GGj33umzclQ==",
   "success": true,
-  "projectFilePath": "/home/viniciusrw/RiderProjects/MediatRDemo/DemoLibrary/DemoLibrary.csproj",
+  "projectFilePath": "F:\\VS Projects\\MediatR-Demo\\DemoLibrary\\DemoLibrary.csproj",
   "expectedPackageFiles": [
-    "/home/viniciusrw/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
-    "/home/viniciusrw/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
-    "/home/viniciusrw/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "C:\\Users\\vinni\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\vinni\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\vinni\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/home/viniciusrw/RiderProjects/MediatRDemo/DemoLibrary/DemoLibrary.csproj": {}
+    "F:\\VS Projects\\MediatR-Demo\\DemoLibrary\\DemoLibrary.csproj": {}
   },
   "projects": {
-    "/home/viniciusrw/RiderProjects/MediatRDemo/DemoLibrary/DemoLibrary.csproj": {
+    "F:\\VS Projects\\MediatR-Demo\\DemoLibrary\\DemoLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/viniciusrw/RiderProjects/MediatRDemo/DemoLibrary/DemoLibrary.csproj",
+        "projectUniqueName": "F:\\VS Projects\\MediatR-Demo\\DemoLibrary\\DemoLibrary.csproj",
         "projectName": "DemoLibrary",
-        "projectPath": "/home/viniciusrw/RiderProjects/MediatRDemo/DemoLibrary/DemoLibrary.csproj",
-        "packagesPath": "/home/viniciusrw/.nuget/packages/",
-        "outputPath": "/home/viniciusrw/RiderProjects/MediatRDemo/DemoLibrary/obj/",
+        "projectPath": "F:\\VS Projects\\MediatR-Demo\\DemoLibrary\\DemoLibrary.csproj",
+        "packagesPath": "C:\\Users\\vinni\\.nuget\\packages\\",
+        "outputPath": "F:\\VS Projects\\MediatR-Demo\\DemoLibrary\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\VS SDK\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/viniciusrw/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\vinni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

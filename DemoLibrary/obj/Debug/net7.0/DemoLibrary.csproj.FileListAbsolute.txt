@@ -3,3 +3,15 @@
 /home/viniciusrw/RiderProjects/MediatRDemo/DemoLibrary/obj/Debug/net7.0/DemoLibrary.AssemblyInfoInputs.cache
 /home/viniciusrw/RiderProjects/MediatRDemo/DemoLibrary/obj/Debug/net7.0/DemoLibrary.AssemblyInfo.cs
 /home/viniciusrw/RiderProjects/MediatRDemo/DemoLibrary/obj/Debug/net7.0/DemoLibrary.csproj.CoreCompileInputs.cache
+F:\VS Projects\MediatR-Demo\DemoLibrary\obj\Debug\net7.0\DemoLibrary.csproj.AssemblyReference.cache
+F:\VS Projects\MediatR-Demo\DemoLibrary\obj\Debug\net7.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS Projects\MediatR-Demo\DemoLibrary\obj\Debug\net7.0\DemoLibrary.AssemblyInfoInputs.cache
+F:\VS Projects\MediatR-Demo\DemoLibrary\obj\Debug\net7.0\DemoLibrary.AssemblyInfo.cs
+F:\VS Projects\MediatR-Demo\DemoLibrary\obj\Debug\net7.0\DemoLibrary.csproj.CoreCompileInputs.cache
+F:\VS Projects\MediatR-Demo\DemoLibrary\bin\Debug\net7.0\DemoLibrary.deps.json
+F:\VS Projects\MediatR-Demo\DemoLibrary\bin\Debug\net7.0\DemoLibrary.dll
+F:\VS Projects\MediatR-Demo\DemoLibrary\bin\Debug\net7.0\DemoLibrary.pdb
+F:\VS Projects\MediatR-Demo\DemoLibrary\obj\Debug\net7.0\DemoLibrary.dll
+F:\VS Projects\MediatR-Demo\DemoLibrary\obj\Debug\net7.0\refint\DemoLibrary.dll
+F:\VS Projects\MediatR-Demo\DemoLibrary\obj\Debug\net7.0\DemoLibrary.pdb
+F:\VS Projects\MediatR-Demo\DemoLibrary\obj\Debug\net7.0\ref\DemoLibrary.dll

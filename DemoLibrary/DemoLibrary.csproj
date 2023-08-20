@@ -7,6 +7,12 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <Compile Remove="Commands\**" />
+      <EmbeddedResource Remove="Commands\**" />
+      <None Remove="Commands\**" />
+    </ItemGroup>
+
+    <ItemGroup>
       <Compile Remove="Class1.cs" />
     </ItemGroup>
 
@@ -19,7 +25,6 @@
 
 
     <ItemGroup>
-      <Folder Include="Commands\" />
       <Folder Include="Queries\" />
     </ItemGroup>
 
