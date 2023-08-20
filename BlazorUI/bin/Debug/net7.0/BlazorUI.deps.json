@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v7.0": {
       "BlazorUI/1.0.0": {
         "dependencies": {
-          "DemoLibrary": "1.0.0"
+          "DemoLibrary": "1.0.0",
+          "MediatR": "12.1.1"
         },
         "runtime": {
           "BlazorUI.dll": {}

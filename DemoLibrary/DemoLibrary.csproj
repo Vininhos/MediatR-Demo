@@ -7,12 +7,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Compile Remove="Commands\**" />
-      <EmbeddedResource Remove="Commands\**" />
-      <None Remove="Commands\**" />
-    </ItemGroup>
-
-    <ItemGroup>
       <Compile Remove="Class1.cs" />
     </ItemGroup>
 
@@ -20,12 +14,6 @@
 
     <ItemGroup>
       <PackageReference Include="MediatR" Version="12.1.1" />
-    </ItemGroup>
-
-
-
-    <ItemGroup>
-      <Folder Include="Queries\" />
     </ItemGroup>
 
 </Project>
