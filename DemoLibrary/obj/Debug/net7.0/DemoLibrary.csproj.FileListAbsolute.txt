@@ -1,0 +1,5 @@
+/home/viniciusrw/RiderProjects/MediatRDemo/DemoLibrary/obj/Debug/net7.0/DemoLibrary.csproj.AssemblyReference.cache
+/home/viniciusrw/RiderProjects/MediatRDemo/DemoLibrary/obj/Debug/net7.0/DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/viniciusrw/RiderProjects/MediatRDemo/DemoLibrary/obj/Debug/net7.0/DemoLibrary.AssemblyInfoInputs.cache
+/home/viniciusrw/RiderProjects/MediatRDemo/DemoLibrary/obj/Debug/net7.0/DemoLibrary.AssemblyInfo.cs
+/home/viniciusrw/RiderProjects/MediatRDemo/DemoLibrary/obj/Debug/net7.0/DemoLibrary.csproj.CoreCompileInputs.cache
