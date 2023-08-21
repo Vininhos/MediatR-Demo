@@ -8,5 +8,6 @@ namespace DemoLibrary
 {
     public class DemoLibraryMediatREntryPoint
     {
+        //Test commit
     }
 }
